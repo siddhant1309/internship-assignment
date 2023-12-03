@@ -56,5 +56,4 @@ To run the application locally, follow these steps:
 - React.js
 - React Router
 - Firebase (Firestore for data storage)(attempted)
-- Other libraries (mention any additional libraries used)
-
+- Other libraries 
